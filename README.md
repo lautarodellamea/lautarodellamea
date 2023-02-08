@@ -9,11 +9,11 @@
 
 - 👨‍💻 Visita mi portafolio web [proximamente](proximamente)
 
-- 📫 Contactame **lautarodm98@gmail.com**
+- 📫 Contáctame **lautarodm98@gmail.com**
 
 - ⚡ Mis gustos y hobbies **tomar mate y salir de paseo con Nilah 🐶**
 
-<h3 align="left">Ponte en contacto conmigo:</h3>
+<h3 align="left">Contáctame cuando quieras:</h3>
 <p align="left">
 <a href="https://twitter.com/lautarodellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heymalbec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lautarodellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarodellamea" height="30" width="40" /></a>
