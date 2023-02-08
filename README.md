@@ -1,17 +1,17 @@
 <h1>Hola 👋, soy Lautaro Della Mea</h1>
 <h3>Apasionado por el desarrollo web fullstack</h3>
 
-- 🔭 Actualmente me encuentro realizando **proyectos y trabajos freelance**
+- 🔭 Actualmente me encuentro realizando **proyectos y trabajos freelance**.
 
-- 🌱 Actualmente me encuentro aprendiendo **ReactJs**
+- 🌱 Actualmente me encuentro aprendiendo **ReactJs**.
 
-- 👯 Buscando **colaborar en cualquier tipo de proyecto, para sumar expriencias y aprender**
+- 👯 Buscando **colaborar en cualquier tipo de proyecto, para sumar expriencias y aprender**.
 
-- 👨‍💻 Visita mi portafolio web [proximamente](proximamente)
+- 👨‍💻 Visita mi portafolio web [proximamente](proximamente).
 
-- 📫 Contáctame **lautarodm98@gmail.com**
+- 📫 Contáctame **lautarodm98@gmail.com**.
 
-- ⚡ Mis gustos y hobbies **tomar mate y salir de paseo con Nilah 🐶**
+- ⚡ Mis gustos y hobbies **tomar mate y salir de paseo con Nilah 🐶**.
 
 <h3 align="left">Contáctame cuando quieras:</h3>
 <p align="left">
