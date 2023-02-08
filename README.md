@@ -11,7 +11,7 @@
 
 - 📫 Contáctame **lautarodm98@gmail.com**.
 
-- ⚡ Mis gustos y hobbies **tomar mate y salir de paseo con Nilah 🐶**.
+- ⚡ Me gusta pasar tiempo en familia, juntarme con mis amigos, **tomar mate y salir de paseo con Nilah 🐶**.
 
 <h3 align="left">Contáctame cuando quieras:</h3>
 <p align="left">
