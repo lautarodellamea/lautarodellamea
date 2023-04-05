@@ -16,7 +16,7 @@
 <h3 align="left">Contáctame cuando quieras:</h3>
 <p align="left">
 <a href="https://twitter.com/lautarodellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heymalbec" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/lautarodellamea](https://www.linkedin.com/in/lautaro-della-mea/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarodellamea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lautaro-della-mea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarodellamea" height="30" width="40" /></a>
 <a href="https://instagram.com/lautidellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautidellamea" height="30" width="40" /></a>
 <a href="https://discord.gg/374644532316340227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="374644532316340227" height="30" width="40" /></a>
 </p>
