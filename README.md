@@ -1,7 +1,7 @@
 <h1>Hola 👋, soy Lautaro Della Mea</h1>
 <h3>Apasionado por el desarrollo web fullstack</h3>
 
-- 🔭 Actualmente me encuentro realizando **proyectos y trabajos freelance**.
+- 🔭 En estos momentos me encuentro realizando **proyectos y trabajos freelance**.
 
 - 🌱 Actualmente me encuentro aprendiendo **ReactJs**.
 
