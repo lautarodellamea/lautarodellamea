@@ -18,7 +18,7 @@
 <a href="https://twitter.com/lautarodellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heymalbec" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lautaro-della-mea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarodellamea" height="30" width="40" /></a>
 <a href="https://instagram.com/lautidellamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautidellamea" height="30" width="40" /></a>
-<a href="https://discord.gg/374644532316340227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="374644532316340227" height="30" width="40" /></a>
+<a href="https://discord.gg/374644532316340227" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="374644532316340227"  width="40" /></a>
 <a href="http://api.whatsapp.com/send?phone=543585106415" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" alt="374644532316340227"  width="40" /></a>
 <a href="https://t.me/lndmg target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" alt="374644532316340227"  width="40" /></a>
 </p>
