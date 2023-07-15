@@ -3,7 +3,7 @@
 
 - 🔭 En estos momentos me encuentro realizando **proyectos y trabajos freelance**.
 
-- 🌱 Puliendo **ReactJs**.
+- 🌱 Puliendo **React**.
 
 - 👯 Buscando **colaborar en cualquier tipo de proyecto, para sumar expriencias y aprender**.
 
