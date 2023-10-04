@@ -7,7 +7,7 @@
 
 - 👯 Buscando **colaborar en cualquier tipo de proyecto, para sumar expriencias y aprender**.
 
-- 👨‍💻 Visita mi portafolio web [proximamente](proximamente).
+- 👨‍💻 Visita mi portafolio web [https://lautarodellamea.netlify.app/](lautarodellamea).
 
 - 📫 Contáctame **lautarodm98@gmail.com**.
 
