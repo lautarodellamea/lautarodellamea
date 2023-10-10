@@ -1,5 +1,5 @@
 <h1>Hola 👋, soy Lautaro Della Mea</h1>
-<h3>Apasionado por el Desarrollo Web</h3>
+<h3>Desarrollador Front End</h3>
 
 - 🔭 En estos momentos me encuentro realizando **proyectos y trabajos freelance**.
 
