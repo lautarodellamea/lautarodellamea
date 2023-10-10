@@ -3,21 +3,11 @@
 
 - 🔭 En estos momentos me encuentro realizando **proyectos y trabajos freelance**.
 
-- 🌱 Puliendo **React**.
-
-- 👯 Buscando **colaborar en cualquier tipo de proyecto, para sumar expriencias y aprender**.
+- 🌱 Estoy buscando oportunidades para formar parte de un **equipo de IT** en una empresa donde pueda desarrollarme **profesionalmente** y contribuir con mis **habilidades**.
 
 - 👨‍💻 Visita mi portafolio web [aquí](https://lautarodellamea.netlify.app/).
 
 - 📫 Contáctame **lautarodm98@gmail.com**.
-
-- ⚡ Me gusta pasar tiempo en familia, asadito con mis amigos, **tomar mate y salir de paseo con Nilah 🐶**.
-
-<h3 align="left">Contáctame cuando quieras:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/lautaro-della-mea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarodellamea" height="30" width="35" /></a><a href="http://api.whatsapp.com/send?phone=543585106415" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" alt="wpp"  width="35" /></a>
-</p>
 
 <h3 align="left">Tecnologias:</h3>
 <p>
