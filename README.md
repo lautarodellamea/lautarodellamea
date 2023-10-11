@@ -37,6 +37,3 @@
 <img src="https://lautarodellamea.netlify.app/assets/images/nilah-git.png" alt="App Screenshot" width="30%" />
 
 
-|-----------------------------|------------------------------------|
-| Aquí puedes agregar texto   | ![App Screenshot](https://lautarodellamea.netlify.app/assets/images/nilah-git.png) |
-
