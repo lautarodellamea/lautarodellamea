@@ -35,5 +35,8 @@
 | Responsive Design |
 
 <img src="https://lautarodellamea.netlify.app/assets/images/nilah-git.png" alt="App Screenshot" width="30%" />
+<div style="text-align: right">
+  <img src="https://lautarodellamea.netlify.app/assets/images/nilah-git.png" alt="App Screenshot" width="30%" style="margin: 0 0 10px 10px;" />
+</div>
 
 
