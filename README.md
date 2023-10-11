@@ -34,4 +34,4 @@
 | SEO 
 | Responsive Design |
 
-<img src="https://lautarodellamea.netlify.app/assets/images/nilah-git.png" alt="App Screenshot" width="50%" />
+<img src="https://lautarodellamea.netlify.app/assets/images/nilah-git.png" alt="App Screenshot" width="30%" />
