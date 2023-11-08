@@ -8,7 +8,7 @@
 
 🌱 Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.
 
-🚀 Visita mi portafolio web [aquí]([https://linktodocumentation](http://lautarodellamea.com.ar/)).
+🚀 Visita mi portafolio web [aquí](http://lautarodellamea.com.ar/).
 
 💼  [Linkedin](https://www.linkedin.com/in/lautaro-della-mea/).
 
