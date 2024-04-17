@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍🚀 En estos momentos me encuentro realizando proyectos y trabajos freelance.<br><br>🌱 Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.<br><br>🚀 Visita mi portafolio web: www.lautarodellamea.com.ar<br><br>📫 lautarodm98@gmail.com.</p>
+<p align="left">👨‍🚀 En estos momentos me encuentro realizando proyectos y trabajos freelance.<br><br>🌱 Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.<br><br>📫 lautarodm98@gmail.com.</p>
 
 🚀 Visita mi portafolio web [aquí](http://lautarodellamea.com.ar/).
 
