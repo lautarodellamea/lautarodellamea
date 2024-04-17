@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador frontend viviendo en Córdoba, Argentina.</p>
+<p align="left">Desarrollador web frontend viviendo en Córdoba, Argentina.</p>
 
 ###
 
