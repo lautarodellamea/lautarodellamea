@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">Desarrollador frontend residiendo en Córdoba, Argentina.</p>
+<p align="left">Desarrollador Fullstack residiendo en Córdoba, Argentina.</p>
 
 ###
 
-<p align="left">👨‍🚀 En estos momentos me encuentro realizando proyectos y trabajos freelance.</p>
-
-<p align="left">🌱 Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.</p>
+<p align="left">👨‍🚀 Valio la pena cada segundo invertido.</p>
 
 <p align="left">📫 lautarodm98@gmail.com.</p>
 
