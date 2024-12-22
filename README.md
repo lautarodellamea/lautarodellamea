@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador Fullstack residiendo en Córdoba, Argentina.</p>
+<p align="left">Desarrollador Full Stack residiendo en Córdoba, Argentina.</p>
 
 ###
 
