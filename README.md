@@ -10,7 +10,7 @@
 
 <p align="left">📫 lautarodm98@gmail.com.</p>
 
-🚀 Visita mi portafolio web [aquí](http://lautarodellamea.com.ar/).
+🚀 Visita mi portafolio web [aquí](http://lautaro-della-mea.netlify.app).
 
 💼 [Linkedin](https://www.linkedin.com/in/lautaro-della-mea/).
 
