@@ -6,9 +6,7 @@
 
 ###
 
-<p align="left">👨‍🚀 Valio la pena cada segundo invertido.</p>
-
-<p align="left">📫 lautarodm.dev@gmail.com.</p>
+<p align="left">📫 lautarodm.dev@gmail.com</p>
 <p align="left">💼 <a href="https://www.linkedin.com/in/lautaro-della-mea/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
 ###
