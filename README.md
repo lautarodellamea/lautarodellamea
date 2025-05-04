@@ -1,17 +1,14 @@
-<h1 align="left">Hola Mundo! 👨‍💻, soy Lautaro Della Mea</h1>
+<h1 align="left">Soy Lautaro Della Mea</h1>
 
 ###
 
-<p align="left">Desarrollador Full Stack residiendo en Córdoba, Argentina.</p>
+<p align="left">Desarrollador residiendo en Córdoba, Argentina.</p>
 
 ###
 
 <p align="left">👨‍🚀 Valio la pena cada segundo invertido.</p>
 
-<p align="left">📫 lautarodm98@gmail.com.</p>
-
-🚀 Visita mi portafolio web [aquí](http://lautaro-della-mea.netlify.app).
-
+<p align="left">📫 lautarodm.dev@gmail.com.</p>
 💼 [Linkedin](https://www.linkedin.com/in/lautaro-della-mea/).
 
 ###
